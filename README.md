@@ -7,11 +7,13 @@ This project is an end-to-end Business Intelligence solution designed to analyze
 Key Visualizations & Insights
 
 
+
 Sales Overview: A high-level dashboard featuring key metrics like Total Revenue, Total Profit, and Sales Growth.
 
 
 
 Trend Analysis: 
+
 
 
 Line charts demonstrating sales patterns over time, useful for forecasting and seasonal planning.
@@ -21,10 +23,13 @@ Line charts demonstrating sales patterns over time, useful for forecasting and s
 Regional Performance:
 
 
+
 Interactive maps showing performance by location.
 
 
 Category Deep-Dive: 
+
+
 
 Analysis of sales distribution across different product categories to identify high-value segments.
 
@@ -32,10 +37,12 @@ Analysis of sales distribution across different product categories to identify h
 
 BI Tool: 
 
+
 Power BI Desktop.
 
 
 Data Transformation:
+
 
 Power Query (M Language).
 
@@ -43,15 +50,12 @@ Power Query (M Language).
 
 Calculations:
 
+
 DAX for dynamic measures and KPIs.
 
 
-RETAILS SALES PERFORMANCE DASHBOARD.pbix file using Power BI Desktop.
-
-Interact with the filters and slicers to explore the data.
-
-
 Data Modeling: 
+
 
 Star schema architecture for optimized report performance.
 
