@@ -68,3 +68,5 @@ Project Link:
 
 https://app.powerbi.com/groups/me/reports/cac3af75-68c3-4081-92fa-19cb1558c686?experience=power-bi
 
+
+https://www.linkedin.com/posts/lata-saha-58175518b_powerbi-dataanalytics-retailinsights-activity-7433226543960641536-KrqB?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzIffEBkjuZKKvy8JVsVNgP6G_kq-8g-14
